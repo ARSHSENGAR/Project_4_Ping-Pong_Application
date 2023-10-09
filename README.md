@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/arshsengar/Project_4_Ping-Pong_Application">
-    <img src="https://ibb.co/jWQSjP9" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/7RZq0dx/favicon.png" alt="favicon" border="0">
   </a>
 
   <h3 align="center">Ping Pong Application</h3>
@@ -32,7 +32,7 @@
 
 ## About The Project
 
-![Screen Shot](https://ibb.co/rkxjSYK)
+![Screen Shot](https://i.ibb.co/fMkg5fV/Project-4-Ping-Pong-Application.png)
 
 This is my fourth project as an aspiring Full-Stack Developer. I recently came up with this idea of digitizing our favorite sport, using my recently acquired JavaScript  skill on a Dynamic Ping-Pong application.
 
